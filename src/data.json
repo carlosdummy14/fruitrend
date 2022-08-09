@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "banana",
+    "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages6.fanpop.com%2Fimage%2Fphotos%2F34500000%2FBanana-3-bananas-34512789-1000-1000.jpg&f=1&nofb=1",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio officiis illo, ut fuga commodi magnam "
+  },
+  {
+    "id": 2,
+    "name": "apple",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgrocermart.com%2Fimage%2Fcache%2Fdata%2FFruits%2FApple_Pears%2Fgala-1800x1800.jpg&f=1&nofb=1",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio officiis illo, ut fuga commodi magnam "
+  },
+  {
+    "id": 3,
+    "name": "guava",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedijuice.com%2Fwp-content%2Fuploads%2F2017%2F06%2FGuava-.jpg&f=1&nofb=1",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio officiis illo, ut fuga commodi magnam "
+  },
+  {
+    "id": 4,
+    "name": "pineapple",
+    "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Fpineapple%2Fpineapple_PNG95135.png&f=1&nofb=1",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio officiis illo, ut fuga commodi magnam "
+  },
+  {
+    "id": 5,
+    "name": "grapes",
+    "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fweknowyourdreams.com%2Fimages%2Fgrapes%2Fgrapes-02.jpg&f=1&nofb=1",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio officiis illo, ut fuga commodi magnam "
+  }
+]
